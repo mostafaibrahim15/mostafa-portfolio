@@ -1,0 +1,58 @@
+input
+{
+    background-color: transparent;
+    color: #fff;
+    border: 0;
+    border-bottom: 1px solid red;
+    outline: 0;
+    position: relative;
+}
+
+.error
+{
+    
+    margin-top: 3px;
+    margin-left: 9rem;
+    color: red;
+    font-family: 'Kalam', cursive; ;
+}
+
+input::placeholder
+{
+    font-family: 'Kalam', cursive; ;
+}
+
+input:focus
+{
+    outline: 0;
+    background-color: transparent;
+    background-color: #000;
+    
+}
+
+@media screen and (min-width:120px) {
+
+    input
+     {
+            width: 100%;
+    }
+
+}
+
+@media screen and (min-width:450px) {
+
+    input
+     {
+            width: 75%;
+    }
+
+}
+@media screen and (min-width:750px) {
+
+    input,.btn
+     {
+            width: 60%;
+            margin-left: 9rem;
+    }
+
+}

@@ -1,0 +1,93 @@
+.mainNav
+{
+    background-color: black;
+    width: 100%;
+    padding: 1rem .9rem;
+    z-index: 99;
+
+}
+
+.bar
+{
+    color: red;
+}
+
+.list
+{
+    padding-left: 1.5rem;
+   
+    
+}
+
+.list a
+{
+    font-size: .7rem;
+}
+
+.list a:hover i
+{
+    color: red;
+    animation: translateIcone .9s infinite ease-in-out;
+
+}
+
+.login
+{
+    padding: .3rem .5rem;
+    margin-left: 3rem ;
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login:hover
+{
+    background-color: red;
+    color: #fff;
+}
+
+
+@keyframes translateIcone {
+
+    25%
+    {
+        transform: translateY(4px);
+    }
+    50%
+    {
+        transform: translateY(0px);
+        transform: translateX(4px);
+    }
+    75%
+    {
+        transform: translateY(-4px);
+    }
+    100%
+    {
+        transform: translateY(0px);
+        transform: translateX(-4px);
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:450px) {
+
+    .list a
+{
+    font-size: .9rem;
+}
+
+    
+  }

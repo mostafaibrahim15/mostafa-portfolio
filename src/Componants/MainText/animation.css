@@ -1,0 +1,446 @@
+@keyframes textTranslate {
+    0%
+    {
+        content: '';
+    }
+
+    1%
+    {
+        content: 'h';
+    }
+    2%
+    {
+        content: 'he';
+    }
+    3%
+    {
+        content: 'hel';
+    }
+    4%
+    {
+        content: 'hell';
+    }
+    5%
+    {
+        content: 'hello';
+    }
+    6%
+    {
+        content: 'hello';
+    }
+    6%
+    {
+        content: 'hel';
+    }
+    7%
+    {
+        content: 'h';
+    }
+   
+    9%
+    {
+        content: " I' ";
+    }
+    10%
+    {
+        content: 'm';
+    }
+    
+    13%
+    {
+        content: 'M';
+        color: red;
+    }
+    14%
+    {
+        content: 'MO';
+        
+    }
+    15%
+    {
+        content: 'MOS';
+        
+    }
+    16%
+    {
+        content: 'MOST';
+        
+    }
+    17%
+    {
+        content: 'MOSTA';
+        
+    }
+    18%
+    {
+        content: 'MOSTAF';
+       ;
+    }
+    19%
+    {
+        content: 'MOSTAFA';
+        
+    }
+    20%
+    {
+        content: 'MOSTAF';
+        
+    }
+    21%
+    {
+        content: 'MOSTA';
+        
+    }
+    22%
+    {
+        content: 'MOST';
+        
+    }
+    23%
+    {
+        content: 'MOS';
+      
+    }
+    24%
+    {
+        content: 'MO';
+       
+    }
+    25%
+    {
+        content: 'M';
+       
+    }
+    26%
+    {
+        content: ' ';
+        color: #fff;
+    }
+    27%
+    {
+        content: 'W';
+        color: #fff;
+    }
+    28%
+    {
+        content: 'We';
+    }
+    29%
+    {
+        content: 'Wel';
+    }
+    30%
+    {
+        content: 'Well';
+    }
+    31%
+    {
+        content: 'Wellc';
+    }
+    32%
+    {
+        content: 'Wellco';
+    }
+    33%
+    {
+        content: 'Wellcom';
+    }
+    34%
+    {
+        content: 'Wellco';
+    }
+    35%
+    {
+        content: 'Wellc';
+    }
+    36%
+    {
+        content: 'Well';
+    }
+    37%
+    {
+        content: 'Wel';
+    }
+    38%
+    {
+        content: 'We';
+    }
+    39%
+    {
+        content: 'W';
+    }
+    40%
+    {
+        content: ' ';
+    }
+    41%
+    {
+        content: 'I';
+    }
+    42%
+    {
+        content: 'I ';
+    }
+    43%
+    {
+        content: 'I h';
+    }
+    44%
+    {
+        content: 'I ho';
+    }
+    45%
+    {
+        content: 'I hop';
+    }
+    46%
+    {
+        content: 'I hope';
+    }
+    47%
+    {
+        content: 'I hope ';
+    }
+    48%
+    {
+        content: 'I hope y';
+    }
+    49%
+    {
+        content: 'I hope yo';
+    }
+    50%
+    {
+        content: 'I hope you';
+    }
+    51%
+    {
+        content: 'I hope you';
+    }
+    52%
+    {
+        content: 'I hope you ';
+    }
+    53%
+    {
+        content: 'I hope you l';
+    }
+    54%
+    {
+        content: 'I hope you li';
+    }
+    55%
+    {
+        content: 'I hope you lik';
+    }
+    56%
+    {
+        content: 'I hope you like';
+    }
+    57%
+    {
+        content: 'I hope you like i';
+    }
+    58%
+    {
+        content: 'I hope you like it';
+        font-size: .6rem;
+        color: #fff;
+    }
+    59%
+    {
+        content: 'I hope you like ';
+    }
+    60%
+    {
+        content: 'I hope you ';
+    }
+    61%
+    {
+        content: 'I hope ';
+    }
+    62%
+    {
+        content: 'I';
+    }
+    63%
+    {
+        content: 'I  w';
+    }
+    64%
+    {
+        content: 'I  we';
+    }
+    65%
+    {
+        content: 'I  web D';
+        
+    }
+    65%
+    {
+        content: 'I  web D';
+        
+    }
+    66%
+    {
+        content: 'I  web De';
+        
+    }
+    67%
+    {
+        content: 'I  web Dev';
+        
+    }
+    67%
+    {
+        content: 'I  web Deve';
+        
+    }
+    67%
+    {
+        content: 'I  web Devel';
+        
+    }
+    68%
+    {
+        content: 'I  web Develo';
+        
+    }
+    69%
+    {
+        content: 'I  web Develop';
+        
+    }
+    70%
+    {
+        content: 'I  web Develope';
+        
+    }
+    71%
+    {
+        content: 'I  web Developer ';
+        
+    }
+    72%
+    {
+        content: 'I  web Developer R';
+        
+    }
+    73%
+    {
+        content: 'I  web Developer RE';
+        
+    }
+    74%
+    {
+        content: 'I  web Developer REA';
+        
+    }
+    75%
+    {
+        content: 'I  web Developer REAC';
+        
+    }
+    76%
+    {
+        content: 'I  web Developer REACT';
+        
+    }
+    77%
+    {
+        content: 'I  web Developer REAC';
+        
+    }
+    78%
+    {
+        content: 'I  web Developer REA';
+        
+    }
+    79%
+    {
+        content: 'I  web Developer RE';
+        
+    }
+    80%
+    {
+        content: 'I  web Developer R';
+        
+    }
+    81%
+    {
+        content: 'I  web Developer ';
+        
+    }
+    82%
+    {
+        content: 'I  web Develope';
+        
+    }
+    83%
+    {
+        content: 'I  web Develop';
+        
+    }
+    84%
+    {
+        content: 'I  web Develo';
+        
+    }
+    85%
+    {
+        content: 'I  web Devel';
+        
+    }
+    86%
+    {
+        content: 'I  web Deve';
+        
+    }
+    87%
+    {
+        content: 'I  web Dev';
+        
+    }
+    88%
+    {
+        content: 'I  web Dev';
+        
+    }
+    89%
+    {
+        content: 'I  web De';
+        
+    }
+    90%
+    {
+        content: 'I  web D';
+        
+    }
+    91%
+    {
+        content: 'I  web';
+        
+    }
+    92%
+    {
+        content: 'I  we';
+        
+    }
+    93%
+    {
+        content: 'I  w';
+        
+    }
+    94%
+    {
+        content: 'I ';
+        
+    }
+    
+    100%
+    {
+        content: ' ';
+        
+    }
+    
+}

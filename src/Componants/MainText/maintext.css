@@ -1,0 +1,56 @@
+@import './animation.css';
+
+
+.maintext
+{
+    margin-left: 6rem;
+    color: white;
+}
+
+.animiTransX
+{
+    font-size: .9rem;
+    padding-top: 2px;
+    transition: textTranslate 20s ease-in;
+    width: 100%;
+  
+}
+.animiTransX::after
+{
+    content: '';
+    animation: textTranslate  50s infinite ease-in-out;
+}
+
+
+
+@media screen and (min-width:450px) {
+
+    .maintext
+    {
+        margin-left: 20rem;
+        color: white;
+    }
+    
+    .animiTransX
+    {
+        font-size: 1.3rem;
+        padding-top: 2px;
+    }
+
+    
+  }
+
+  @media screen and (min-width:450px) {
+
+    .maintext
+    {
+        margin-left: 35rem;
+        color: white;
+    }
+    
+  
+
+    
+  }
+
+  
